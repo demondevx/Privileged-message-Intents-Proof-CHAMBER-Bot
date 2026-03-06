@@ -128,8 +128,8 @@ demondev_: report it
 
 Proof:
 
-- [📷 Screenshot - VC Incident Report](https://i.postimg.cc/x8kg0Dzw/automodlogs.png)
-- [🎥 Video - VC Incident Report](https://youtube.com/shorts/3MiN9UnwZRk?feature=share)
+- [📷 Screenshot - VC Incident Report](https://i.postimg.cc/ZnC92JdB/incidentlogs.png)
+- [🎥 Video - VC Incident Report](https://youtube.com/shorts/OAiMX3vPkw4?feature=share)
 
 ---
 
